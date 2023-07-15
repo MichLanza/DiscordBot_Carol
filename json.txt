@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=xD_7Mw_S1Xo
+https://www.youtube.com/watch?v=rFxOPyzZckg
+https://blog.christian-schou.dk/how-to-implement-graphql-in-asp-net-core/
+https://dev.to/berviantoleo/getting-started-graphql-in-net-6-part-1-4ic2
