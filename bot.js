@@ -105,6 +105,12 @@ client.on("messageCreate", async function(message) {
     }
     else if (content.startsWith(`${prefix}stop`)) {
       musicBot.stop(message);
+    }   
+    else if (content.startsWith(`${prefix}pause`)) {
+      musicBot.pause(message);
+    }
+    else if (content.startsWith(`${prefix}resume`)) {
+      musicBot.resume(message);
     }
     //const channel = message.channel;
     // channel.send();
